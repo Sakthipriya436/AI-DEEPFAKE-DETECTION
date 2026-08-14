@@ -1,0 +1,6 @@
+flask==3.1.1
+flask-cors==5.0.1
+numpy==1.26.4
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+Werkzeug==3.1.3
